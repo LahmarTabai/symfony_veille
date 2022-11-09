@@ -1,5 +1,3 @@
-# Projet portfolio développeur
-## CV Tabai Lahmar
 ### Pour le code html minimal
 
 ```
